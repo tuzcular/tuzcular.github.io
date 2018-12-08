@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:DDFC9527-7E3F-44E3-A790-2C874D670703</id>
+ <title>Page list Atom feed</title>
+ <updated>2018-07-05T17:52:51+03:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:F8544DAE-7F2D-4AA0-A3F0-4660093D2611</id>
+  <title>Hakkında</title>
+  <title xmlns="urn:iweb:">Hakkında</title>
+  <in-navbar xmlns="urn:iweb:">F8544DAE-7F2D-4AA0-A3F0-4660093D2611</in-navbar>
+  <link rel="alternate" href="Hakknda.html"/>
+  <updated>2018-07-05T17:52:51.001+03:00</updated>
+  <content>Hakkında</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:3B1B887D-003A-41F6-8980-7EFE2B6D10DE</id>
+  <title>Kitap</title>
+  <title xmlns="urn:iweb:">Kitap</title>
+  <in-navbar xmlns="urn:iweb:">3B1B887D-003A-41F6-8980-7EFE2B6D10DE</in-navbar>
+  <link rel="alternate" href="Kitap.html"/>
+  <updated>2018-07-05T17:52:51.002+03:00</updated>
+  <content>Kitap</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F3D50AA3-DB94-4090-80B8-1D45F9FA72BE</id>
+  <title>Eser</title>
+  <title xmlns="urn:iweb:">Eser</title>
+  <in-navbar xmlns="urn:iweb:">F3D50AA3-DB94-4090-80B8-1D45F9FA72BE</in-navbar>
+  <link rel="alternate" href="Eser.html"/>
+  <updated>2018-07-05T17:52:51.003+03:00</updated>
+  <content>Eser</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:F14601DD-64ED-47B7-A1FA-300CF8D4AFA9</id>
+  <title>Telif</title>
+  <title xmlns="urn:iweb:">Telif</title>
+  <in-navbar xmlns="urn:iweb:">F14601DD-64ED-47B7-A1FA-300CF8D4AFA9</in-navbar>
+  <link rel="alternate" href="Telif.html"/>
+  <updated>2018-07-05T17:52:51.004+03:00</updated>
+  <content>Telif</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:A83A5A5A-DCA7-45C3-B126-5A4E4EC1DCD3</id>
+  <title>Çeviri</title>
+  <title xmlns="urn:iweb:">Çeviri</title>
+  <in-navbar xmlns="urn:iweb:">A83A5A5A-DCA7-45C3-B126-5A4E4EC1DCD3</in-navbar>
+  <link rel="alternate" href="Ceviri.html"/>
+  <updated>2018-07-05T17:52:51.005+03:00</updated>
+  <content>Çeviri</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:01E67DDE-77F4-464F-AC7D-9E963D17ECCC</id>
+  <title>Etkinlik</title>
+  <title xmlns="urn:iweb:">Etkinlik</title>
+  <in-navbar xmlns="urn:iweb:">01E67DDE-77F4-464F-AC7D-9E963D17ECCC</in-navbar>
+  <link rel="alternate" href="Etkinlik.html"/>
+  <updated>2018-07-05T17:52:51.006+03:00</updated>
+  <content>Etkinlik</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E146E9D5-E646-409B-9C1F-E4A9D28E9321</id>
+  <title>Makale</title>
+  <title xmlns="urn:iweb:">Makale</title>
+  <in-navbar xmlns="urn:iweb:">E146E9D5-E646-409B-9C1F-E4A9D28E9321</in-navbar>
+  <link rel="alternate" href="Makale.html"/>
+  <updated>2018-07-05T17:52:51.007+03:00</updated>
+  <content>Makale</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D773CEEC-FB78-4A01-92C4-1DD56A4F1FBC</id>
+  <title>Seminer</title>
+  <title xmlns="urn:iweb:">Seminer</title>
+  <in-navbar xmlns="urn:iweb:">D773CEEC-FB78-4A01-92C4-1DD56A4F1FBC</in-navbar>
+  <link rel="alternate" href="Seminer.html"/>
+  <updated>2018-07-05T17:52:51.008+03:00</updated>
+  <content>Seminer</content>
+ </entry>
+</feed>
